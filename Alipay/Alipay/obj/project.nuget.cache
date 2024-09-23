@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "TI0xHz5xFFR3hF6RuZ4C/nthBuQxRQtoq4rUtgIutUHcmuNTqZmHb0g4utekCRrtzzLGI7XhUVrkM489Uimp4Q==",
+  "success": true,
+  "projectFilePath": "F:\\VS2022WorkPlace\\AlipayTest\\Alipay\\Alipay\\Alipay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\alipaysdknet\\4.9.258\\alipaysdknet.4.9.258.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\bouncycastle.netframework\\1.8.5.2\\bouncycastle.netframework.1.8.5.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0”还原包“AlipaySDKNet 4.9.258”。此包可能与项目不完全兼容。",
+      "libraryId": "AlipaySDKNet",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0”还原包“BouncyCastle.NetFramework 1.8.5.2”。此包可能与项目不完全兼容。",
+      "libraryId": "BouncyCastle.NetFramework",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
